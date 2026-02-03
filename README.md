@@ -31,7 +31,7 @@ Se desejar rodar este projeto na sua máquina, siga os passos abaixo:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
+   git clone [https://github.com/Mary9998/Gerenciador-de-Tarefas.git](https://github.com/Mary9998/Gerenciador-de-Tarefas.git)
 2. **Acesse a pasta do projeto:**
    ```bash
    cd gerenciador-de-tarefas
